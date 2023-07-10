@@ -1,3 +1,11 @@
+It is a complex expense tracker project build with voice assistant functionality.
+It also has charts to show the expense and income (both with different charts)
+
+Setup:
+
+run `npm i` && `npm start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
