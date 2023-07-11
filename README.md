@@ -1,5 +1,6 @@
 It is a complex expense tracker project build with voice assistant functionality.
-It also has charts to show the expense and income (both with different charts)
+It also has charts to show the expense and income (both with different charts).
+Tech Stack `React Js`
 
 Setup:
 
